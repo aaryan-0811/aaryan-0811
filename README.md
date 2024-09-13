@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaryan-0811
-- 👀 I’m interested in Ai Intership 
+- 👀 I’m interested in AiMl and Data Science Intership 
 - 🌱 I’m currently learning Ai , Ml and Data Science 
 - 💞️ I’m looking to collaborate on Aiml projects 
 - 📫 aapatel_08@yahoo.com
